@@ -1,0 +1,10 @@
+C:\Users\knife\Downloads\CoinGame\Release\Server.exe.config
+C:\Users\knife\Downloads\CoinGame\Release\Server.exe
+C:\Users\knife\Downloads\CoinGame\Release\Server.pdb
+C:\Users\knife\Downloads\CoinGame\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\knife\Downloads\CoinGame\Server\obj\Debug\Server.Form1.resources
+C:\Users\knife\Downloads\CoinGame\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\knife\Downloads\CoinGame\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\knife\Downloads\CoinGame\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\knife\Downloads\CoinGame\Server\obj\Debug\Server.exe
+C:\Users\knife\Downloads\CoinGame\Server\obj\Debug\Server.pdb

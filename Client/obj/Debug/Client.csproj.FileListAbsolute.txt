@@ -1,0 +1,11 @@
+C:\Users\knife\Downloads\CoinGame\Release\Client.exe.config
+C:\Users\knife\Downloads\CoinGame\Release\Client.exe
+C:\Users\knife\Downloads\CoinGame\Release\Client.pdb
+C:\Users\knife\Downloads\CoinGame\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\knife\Downloads\CoinGame\Client\obj\Debug\Client.Form1.resources
+C:\Users\knife\Downloads\CoinGame\Client\obj\Debug\Client.ModalForm.resources
+C:\Users\knife\Downloads\CoinGame\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\knife\Downloads\CoinGame\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\knife\Downloads\CoinGame\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\knife\Downloads\CoinGame\Client\obj\Debug\Client.exe
+C:\Users\knife\Downloads\CoinGame\Client\obj\Debug\Client.pdb
